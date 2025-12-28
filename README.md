@@ -1,4 +1,4 @@
-JSP Discount Calculator
+ Discount Calculator
 
 ## 📊 Overview
 
